@@ -1,6 +1,6 @@
 # Pineprompt MCP server
 
-Pineprompt tracks how AI assistants talk about your brand. It runs your prompts daily on ChatGPT, Gemini, Claude, Google AI Overviews, Google AI Mode and Copilot, and scores every answer for mentions, position, sentiment, cited sources and share of voice against your competitors.
+Pineprompt tracks how AI assistants talk about your brand. It runs your prompts daily on ChatGPT, Gemini, Claude, Google AI Overviews and Google AI Mode, and scores every answer for mentions, position, sentiment, cited sources and share of voice against your competitors.
 
 The Pineprompt MCP server gives AI agents and MCP clients direct access to that data. Ask Claude, Cursor or any MCP client which competitors gained share of voice this week, which sources AI engines cite for your category, or how your sentiment moved on Gemini, and it answers from your own Pineprompt workspace.
 
